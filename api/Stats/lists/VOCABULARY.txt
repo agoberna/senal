@@ -1,0 +1,54 @@
+# You can change this word list with your own glossary
+casa
+cocina
+nevera
+fregadero
+horno
+vitrocerámica
+lavavajillas
+lavadora
+horno
+microondas
+dormitorio
+puerta
+armario
+estantería
+ventana
+ cortinas
+escritorio
+ordenador
+cama
+cojín
+edredón
+sábanas
+almohada
+lámpara
+mesilla de noche
+espejo
+cuadro
+salón
+puerta
+armario
+estantería
+ventana
+ cortinas
+mesa
+silla
+sillón
+sofá
+alfombra
+lámpara
+planta
+ flores
+chimenea
+suelo
+techo
+baño
+ducha
+bañera
+lavabo
+espejo
+váter
+toalla
+alfombrilla
+trabajo

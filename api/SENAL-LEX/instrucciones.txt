@@ -1,0 +1,18 @@
+SEÑAL-LEX Instrucciones
+SEÑAL-LEX se compone de dos scripts.
+1. El primer script (WFreq.py) toma los datos (composiciones de español) y procesa
+el texto para generar un perfil de frequencia de unigrams y bigrams. Además,
+genera un gráfico para los unigrams y bigrams. Por último, genera la lista de palabras (wordlist.txt)
+para el script 2. Ojo, necesitas el 'TestFile.txt' que se encuentra en la carpeta 'data'.
+
+$ python3 Wfreq.py data/TestFile.txt
+
+2. El segundo script (SubtitleToStimuliFinal3.py) compara la frecuencia léxica
+de los datos con un corpus del español. Así, se puede saber el promedio de frecuencia
+léxica del estudiante (i.e., complejidad léxica). Genera una tabla con todas las frecuencias.
+Da el promedio y genera dos gráficos. El boxplot sale más detallado. 
+Ojo, necesitas el 'wordlist.txt' que se encuentra en la carpeta 'data'. 
+Este documento es generado por 'Wfreq.py'.    
+
+$ cat results/wordlist.txt | python3 SubtitleToStimuliFinal3.py
+

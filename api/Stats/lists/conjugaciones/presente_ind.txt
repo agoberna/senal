@@ -1,0 +1,31 @@
+**ESTE VERBO ESTÁ EN PRESENTE DE INDICATIVO**
+
+Usamos el presente de indicativo para:
+	- Indicar una acción que ocurre en el momento en el que se habla. 
+	- Mencionar las cualidades de una persona o cosa. 
+	- Indicar rutinas o acciones que se repiten cada cierto tiempo. 
+	- Describir acciones inmutables o que no cambian con el tiempo. 
+	- A veces, se usa para referirse a acciones futuras. 
+
+Los verbos regulares forman el presente de indicativo añadiendo las terminaciones de presente a la raíz del verbo (infinitivo sin -ar/-er/-ir).
+
+A veces, cuando la vocal de la raíz está acentuada (tiene el golpe de voz más fuerte de la palabra) cambiamos esa vocal:
+
+	- e > ie // "cerrar" > "cierro"
+	- o > ue // "contar" > "cuento"
+	- u > ue // "jugar" > "juego"
+	- e > i // "pedir" > "pido"
+	**Este cambio no ocurre en las formas de la 1ª o la 2ª persona del plural (nosotros/vosotros)**
+
+A veces, en la 1ª persona del singular, algunos verbos pueden incluir una -z- / -g- / -y-:
+	- aparecer > aparezco	 - parecer > parezco 
+	- conducir > conduzco	 - traducir > traduzco
+	- conocer > conozco	 - salir > salgo
+	- caer > caigo		 - tener > tengo
+	- decir > digo		 - traer > traigo
+	- hacer > hago		 - valer > valgo
+	- oír > oigo		 - poner > pongo
+	- poner > pongo		 - ir > voy
+	- dar > doy		 - ser > soy
+	- estar > estoy		 - merecer > merezco
+

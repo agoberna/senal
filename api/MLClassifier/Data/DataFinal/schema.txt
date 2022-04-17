@@ -1,0 +1,7 @@
+# Multilabel Classification Schema
+Lower_Beginner = 0
+Upper_Beginner = 1
+Lower_Intermediate = 2
+Upper_Intermediate = 3
+Lower_Advanced = 4
+Upper_Advanced = 5
