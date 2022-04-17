@@ -1,0 +1,8 @@
+1. Run UDPipe.py to parse the text (toparse.txt) and receive a file in conllu format
+
+python3 UDPipe.py 
+
+2. Run LingComplexityFinalPlt.py to obtain the results for linguistic complexity. 
+You need the parsed.conllu file produced by the UDPipe.py script.
+
+cat results/parsed.conllu | python3 LingComplexityFinalPlt.py
