@@ -1,0 +1,36 @@
+{
+  "name": "senal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "client": "npm start --prefix ../client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@mui/material": "^5.4.2",
+    "@tanstack/react-table": "^8.0.0-alpha.1",
+    "bootstrap": "^5.1.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "express-fileupload": "^1.3.1",
+    "plotly.js": "^2.9.0",
+    "python-shell": "^3.0.1",
+    "react-bootstrap": "^2.1.2",
+    "react-cssfx-loading": "^1.0.3",
+    "react-icons": "^4.3.1",
+    "react-loading-icons": "^1.0.8",
+    "react-plotly.js": "^2.5.1"
+  },
+  "devDependencies": {
+    "concurrently": "^7.0.0",
+    "nodemon": "^2.0.15"
+  }
+}
