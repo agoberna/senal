@@ -1,0 +1,48 @@
+.btn {border-radius: 0;}
+.btn-rounded {border-radius: 5px !important}
+
+.fill {height: 75vh}
+
+.top {height: 10vh;}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+.dataElement {
+    max-width: 50%;
+}
+
+.formElement {
+    display: flex;
+    flex-grow: 1;
+}
+
+.smaller {
+    display: flex;
+    flex-grow: 0;
+    min-width: 140px;
+}
+.setLeft {
+    right: 2rem;
+}
+
+.fullW {
+    width: 100%;
+}
+
+.small {
+    min-height: 1 px;
+}
